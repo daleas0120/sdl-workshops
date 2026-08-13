@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Workshop data written by the notebooks
+doe_results.csv
+doe_results_sim.csv
+doe_submission.csv

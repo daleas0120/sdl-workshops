@@ -1,0 +1,2102 @@
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A1"
+  },
+  "Sensor Data": {
+    "ch583": 65535,
+    "ch670": 38522,
+    "ch510": 56775,
+    "ch410": 6365,
+    "ch620": 65535,
+    "ch470": 37939,
+    "ch550": 65535,
+    "ch440": 51732
+  },
+  "Experiment ID": "dcaf5051"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A2"
+  },
+  "Sensor Data": {
+    "ch583": 34663,
+    "ch670": 21788,
+    "ch510": 29844,
+    "ch410": 3393,
+    "ch620": 36876,
+    "ch470": 21125,
+    "ch550": 36306,
+    "ch440": 26240
+  },
+  "Experiment ID": "69673679"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A3"
+  },
+  "Sensor Data": {
+    "ch583": 55979,
+    "ch670": 32663,
+    "ch510": 47816,
+    "ch410": 5237,
+    "ch620": 55852,
+    "ch470": 32570,
+    "ch550": 56328,
+    "ch440": 44362
+  },
+  "Experiment ID": "c4a5781d"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A4"
+  },
+  "Sensor Data": {
+    "ch583": 34273,
+    "ch670": 21413,
+    "ch510": 29560,
+    "ch410": 3414,
+    "ch620": 37043,
+    "ch470": 21273,
+    "ch550": 36330,
+    "ch440": 26315
+  },
+  "Experiment ID": "e9467d58"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A5"
+  },
+  "Sensor Data": {
+    "ch583": 57495,
+    "ch670": 33445,
+    "ch510": 49648,
+    "ch410": 5628,
+    "ch620": 58965,
+    "ch470": 34015,
+    "ch550": 59103,
+    "ch440": 45798
+  },
+  "Experiment ID": "1e19d53b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A6"
+  },
+  "Sensor Data": {
+    "ch583": 33415,
+    "ch670": 20684,
+    "ch510": 28782,
+    "ch410": 3330,
+    "ch620": 35597,
+    "ch470": 20533,
+    "ch550": 35075,
+    "ch440": 25364
+  },
+  "Experiment ID": "706aabbe"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A7"
+  },
+  "Sensor Data": {
+    "ch583": 59094,
+    "ch670": 33375,
+    "ch510": 50967,
+    "ch410": 5676,
+    "ch620": 58900,
+    "ch470": 35030,
+    "ch550": 59831,
+    "ch440": 48676
+  },
+  "Experiment ID": "4a637a00"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A8"
+  },
+  "Sensor Data": {
+    "ch583": 33854,
+    "ch670": 20993,
+    "ch510": 28918,
+    "ch410": 3398,
+    "ch620": 36341,
+    "ch470": 20995,
+    "ch550": 35783,
+    "ch440": 25583
+  },
+  "Experiment ID": "8167d19b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A9"
+  },
+  "Sensor Data": {
+    "ch583": 60587,
+    "ch670": 34677,
+    "ch510": 52167,
+    "ch410": 5880,
+    "ch620": 61703,
+    "ch470": 35772,
+    "ch550": 62064,
+    "ch440": 47892
+  },
+  "Experiment ID": "c63e57a8"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A10"
+  },
+  "Sensor Data": {
+    "ch583": 33943,
+    "ch670": 21021,
+    "ch510": 29117,
+    "ch410": 3359,
+    "ch620": 36321,
+    "ch470": 20924,
+    "ch550": 35884,
+    "ch440": 25558
+  },
+  "Experiment ID": "bb017e95"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A11"
+  },
+  "Sensor Data": {
+    "ch583": 54521,
+    "ch670": 30830,
+    "ch510": 47161,
+    "ch410": 5411,
+    "ch620": 56871,
+    "ch470": 32366,
+    "ch550": 56741,
+    "ch440": 42816
+  },
+  "Experiment ID": "85cfea5b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "A12"
+  },
+  "Sensor Data": {
+    "ch583": 32270,
+    "ch670": 19818,
+    "ch510": 27191,
+    "ch410": 3083,
+    "ch620": 33722,
+    "ch470": 19164,
+    "ch550": 32883,
+    "ch440": 23584
+  },
+  "Experiment ID": "2cc9d333"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B1"
+  },
+  "Sensor Data": {
+    "ch583": 65535,
+    "ch670": 37349,
+    "ch510": 55795,
+    "ch410": 6335,
+    "ch620": 65535,
+    "ch470": 37689,
+    "ch550": 65535,
+    "ch440": 50537
+  },
+  "Experiment ID": "80ecf5cf"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B2"
+  },
+  "Sensor Data": {
+    "ch583": 37234,
+    "ch670": 22841,
+    "ch510": 31842,
+    "ch410": 3706,
+    "ch620": 39765,
+    "ch470": 23003,
+    "ch550": 39044,
+    "ch440": 28567
+  },
+  "Experiment ID": "79a4c3d4"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B3"
+  },
+  "Sensor Data": {
+    "ch583": 64254,
+    "ch670": 36522,
+    "ch510": 55513,
+    "ch410": 6171,
+    "ch620": 64453,
+    "ch470": 37780,
+    "ch550": 65005,
+    "ch440": 52745
+  },
+  "Experiment ID": "7b16c25d"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B4"
+  },
+  "Sensor Data": {
+    "ch583": 37214,
+    "ch670": 22891,
+    "ch510": 31782,
+    "ch410": 3745,
+    "ch620": 39942,
+    "ch470": 23545,
+    "ch550": 39276,
+    "ch440": 28911
+  },
+  "Experiment ID": "18aa7a26"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B5"
+  },
+  "Sensor Data": {
+    "ch583": 58955,
+    "ch670": 33771,
+    "ch510": 50078,
+    "ch410": 5580,
+    "ch620": 59962,
+    "ch470": 34089,
+    "ch550": 59675,
+    "ch440": 44778
+  },
+  "Experiment ID": "bfa22a99"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B6"
+  },
+  "Sensor Data": {
+    "ch583": 35507,
+    "ch670": 21810,
+    "ch510": 30546,
+    "ch410": 3627,
+    "ch620": 38043,
+    "ch470": 22284,
+    "ch550": 37589,
+    "ch440": 27388
+  },
+  "Experiment ID": "169b10f4"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B7"
+  },
+  "Sensor Data": {
+    "ch583": 57717,
+    "ch670": 32644,
+    "ch510": 49222,
+    "ch410": 5463,
+    "ch620": 59119,
+    "ch470": 33777,
+    "ch550": 59123,
+    "ch440": 44224
+  },
+  "Experiment ID": "7440d535"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B8"
+  },
+  "Sensor Data": {
+    "ch583": 36103,
+    "ch670": 21944,
+    "ch510": 30677,
+    "ch410": 3633,
+    "ch620": 38691,
+    "ch470": 22322,
+    "ch550": 37926,
+    "ch440": 27810
+  },
+  "Experiment ID": "24f826c7"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B9"
+  },
+  "Sensor Data": {
+    "ch583": 60447,
+    "ch670": 34199,
+    "ch510": 51107,
+    "ch410": 5605,
+    "ch620": 61196,
+    "ch470": 34086,
+    "ch550": 60557,
+    "ch440": 45300
+  },
+  "Experiment ID": "9584ef4a"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B10"
+  },
+  "Sensor Data": {
+    "ch583": 36703,
+    "ch670": 22279,
+    "ch510": 31134,
+    "ch410": 3723,
+    "ch620": 39326,
+    "ch470": 22654,
+    "ch550": 38659,
+    "ch440": 27787
+  },
+  "Experiment ID": "c05d6b73"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B11"
+  },
+  "Sensor Data": {
+    "ch583": 59623,
+    "ch670": 34102,
+    "ch510": 50962,
+    "ch410": 5823,
+    "ch620": 61539,
+    "ch470": 34749,
+    "ch550": 61222,
+    "ch440": 46350
+  },
+  "Experiment ID": "1dabcf67"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "B12"
+  },
+  "Sensor Data": {
+    "ch583": 32448,
+    "ch670": 19886,
+    "ch510": 27655,
+    "ch410": 3171,
+    "ch620": 33699,
+    "ch470": 19574,
+    "ch550": 33045,
+    "ch440": 24060
+  },
+  "Experiment ID": "534b29a0"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C1"
+  },
+  "Sensor Data": {
+    "ch583": 62978,
+    "ch670": 35882,
+    "ch510": 53522,
+    "ch410": 5953,
+    "ch620": 63231,
+    "ch470": 36200,
+    "ch550": 62972,
+    "ch440": 49419
+  },
+  "Experiment ID": "fa6aca4e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C2"
+  },
+  "Sensor Data": {
+    "ch583": 36219,
+    "ch670": 22133,
+    "ch510": 30876,
+    "ch410": 3555,
+    "ch620": 38559,
+    "ch470": 22162,
+    "ch550": 37771,
+    "ch440": 27260
+  },
+  "Experiment ID": "daca7f44"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C3"
+  },
+  "Sensor Data": {
+    "ch583": 56781,
+    "ch670": 32404,
+    "ch510": 48108,
+    "ch410": 5449,
+    "ch620": 57988,
+    "ch470": 33228,
+    "ch550": 57648,
+    "ch440": 43223
+  },
+  "Experiment ID": "41ab8e43"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C4"
+  },
+  "Sensor Data": {
+    "ch583": 36996,
+    "ch670": 22786,
+    "ch510": 31606,
+    "ch410": 3632,
+    "ch620": 39633,
+    "ch470": 23315,
+    "ch550": 39162,
+    "ch440": 28766
+  },
+  "Experiment ID": "c408c547"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C5"
+  },
+  "Sensor Data": {
+    "ch583": 61136,
+    "ch670": 34870,
+    "ch510": 51829,
+    "ch410": 5691,
+    "ch620": 62070,
+    "ch470": 35403,
+    "ch550": 61669,
+    "ch440": 47240
+  },
+  "Experiment ID": "aa1b24ed"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C6"
+  },
+  "Sensor Data": {
+    "ch583": 34899,
+    "ch670": 21729,
+    "ch510": 29537,
+    "ch410": 3440,
+    "ch620": 37281,
+    "ch470": 21591,
+    "ch550": 36413,
+    "ch440": 26612
+  },
+  "Experiment ID": "e6f40d54"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C7"
+  },
+  "Sensor Data": {
+    "ch583": 60294,
+    "ch670": 34023,
+    "ch510": 51267,
+    "ch410": 5777,
+    "ch620": 60212,
+    "ch470": 35084,
+    "ch550": 60448,
+    "ch440": 48716
+  },
+  "Experiment ID": "d8f01957"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C8"
+  },
+  "Sensor Data": {
+    "ch583": 37284,
+    "ch670": 23404,
+    "ch510": 31933,
+    "ch410": 3771,
+    "ch620": 40622,
+    "ch470": 23059,
+    "ch550": 39386,
+    "ch440": 28857
+  },
+  "Experiment ID": "301cae1e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C9"
+  },
+  "Sensor Data": {
+    "ch583": 52267,
+    "ch670": 30082,
+    "ch510": 44895,
+    "ch410": 5026,
+    "ch620": 52809,
+    "ch470": 30958,
+    "ch550": 53098,
+    "ch440": 41890
+  },
+  "Experiment ID": "614befee"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C10"
+  },
+  "Sensor Data": {
+    "ch583": 36389,
+    "ch670": 22568,
+    "ch510": 31250,
+    "ch410": 3668,
+    "ch620": 39081,
+    "ch470": 22770,
+    "ch550": 38454,
+    "ch440": 28719
+  },
+  "Experiment ID": "6da7423d"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C11"
+  },
+  "Sensor Data": {
+    "ch583": 64609,
+    "ch670": 36115,
+    "ch510": 55256,
+    "ch410": 6390,
+    "ch620": 65535,
+    "ch470": 37945,
+    "ch550": 65535,
+    "ch440": 50899
+  },
+  "Experiment ID": "0a3919e6"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "C12"
+  },
+  "Sensor Data": {
+    "ch583": 32186,
+    "ch670": 20029,
+    "ch510": 27350,
+    "ch410": 3154,
+    "ch620": 33614,
+    "ch470": 19514,
+    "ch550": 32859,
+    "ch440": 23879
+  },
+  "Experiment ID": "084bc4a4"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D1"
+  },
+  "Sensor Data": {
+    "ch583": 55949,
+    "ch670": 32183,
+    "ch510": 47391,
+    "ch410": 5342,
+    "ch620": 57454,
+    "ch470": 32700,
+    "ch550": 57393,
+    "ch440": 44198
+  },
+  "Experiment ID": "479a3113"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D2"
+  },
+  "Sensor Data": {
+    "ch583": 36229,
+    "ch670": 22273,
+    "ch510": 30875,
+    "ch410": 3583,
+    "ch620": 38871,
+    "ch470": 22314,
+    "ch550": 38171,
+    "ch440": 27269
+  },
+  "Experiment ID": "be270663"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D3"
+  },
+  "Sensor Data": {
+    "ch583": 62581,
+    "ch670": 35904,
+    "ch510": 53407,
+    "ch410": 5968,
+    "ch620": 64563,
+    "ch470": 36940,
+    "ch550": 64307,
+    "ch440": 49301
+  },
+  "Experiment ID": "95c7b7f3"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D4"
+  },
+  "Sensor Data": {
+    "ch583": 37139,
+    "ch670": 22677,
+    "ch510": 31999,
+    "ch410": 3575,
+    "ch620": 39532,
+    "ch470": 22751,
+    "ch550": 38961,
+    "ch440": 29882
+  },
+  "Experiment ID": "dbac17c1"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D5"
+  },
+  "Sensor Data": {
+    "ch583": 52544,
+    "ch670": 30017,
+    "ch510": 44824,
+    "ch410": 5087,
+    "ch620": 54147,
+    "ch470": 30858,
+    "ch550": 53960,
+    "ch440": 39900
+  },
+  "Experiment ID": "283c1081"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D6"
+  },
+  "Sensor Data": {
+    "ch583": 33425,
+    "ch670": 20832,
+    "ch510": 28390,
+    "ch410": 3347,
+    "ch620": 36021,
+    "ch470": 20869,
+    "ch550": 35264,
+    "ch440": 25279
+  },
+  "Experiment ID": "88cdca82"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D7"
+  },
+  "Sensor Data": {
+    "ch583": 63608,
+    "ch670": 35658,
+    "ch510": 54081,
+    "ch410": 6205,
+    "ch620": 65241,
+    "ch470": 37376,
+    "ch550": 65243,
+    "ch440": 49680
+  },
+  "Experiment ID": "8fb8c908"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D8"
+  },
+  "Sensor Data": {
+    "ch583": 35532,
+    "ch670": 21891,
+    "ch510": 30454,
+    "ch410": 3520,
+    "ch620": 38044,
+    "ch470": 21926,
+    "ch550": 37298,
+    "ch440": 27165
+  },
+  "Experiment ID": "756a1c15"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D9"
+  },
+  "Sensor Data": {
+    "ch583": 56158,
+    "ch670": 32161,
+    "ch510": 48364,
+    "ch410": 5465,
+    "ch620": 58378,
+    "ch470": 33446,
+    "ch550": 58373,
+    "ch440": 45557
+  },
+  "Experiment ID": "bc283e3f"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D10"
+  },
+  "Sensor Data": {
+    "ch583": 37077,
+    "ch670": 22469,
+    "ch510": 31526,
+    "ch410": 3703,
+    "ch620": 39287,
+    "ch470": 22797,
+    "ch550": 38765,
+    "ch440": 28443
+  },
+  "Experiment ID": "4eb307ca"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D11"
+  },
+  "Sensor Data": {
+    "ch583": 47470,
+    "ch670": 27776,
+    "ch510": 40727,
+    "ch410": 4602,
+    "ch620": 49349,
+    "ch470": 27991,
+    "ch550": 48708,
+    "ch440": 36715
+  },
+  "Experiment ID": "fd347092"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "D12"
+  },
+  "Sensor Data": {
+    "ch583": 32810,
+    "ch670": 20504,
+    "ch510": 27849,
+    "ch410": 3173,
+    "ch620": 34417,
+    "ch470": 19948,
+    "ch550": 33745,
+    "ch440": 24455
+  },
+  "Experiment ID": "3c661956"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E1"
+  },
+  "Sensor Data": {
+    "ch583": 57552,
+    "ch670": 33177,
+    "ch510": 49361,
+    "ch410": 5430,
+    "ch620": 59496,
+    "ch470": 33674,
+    "ch550": 59245,
+    "ch440": 44971
+  },
+  "Experiment ID": "b009ebb4"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E2"
+  },
+  "Sensor Data": {
+    "ch583": 34939,
+    "ch670": 21439,
+    "ch510": 29516,
+    "ch410": 3404,
+    "ch620": 37268,
+    "ch470": 21261,
+    "ch550": 36457,
+    "ch440": 25887
+  },
+  "Experiment ID": "8ae4dc25"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E3"
+  },
+  "Sensor Data": {
+    "ch583": 55465,
+    "ch670": 31724,
+    "ch510": 47674,
+    "ch410": 5325,
+    "ch620": 57400,
+    "ch470": 32914,
+    "ch550": 57079,
+    "ch440": 44506
+  },
+  "Experiment ID": "ac655b9e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E4"
+  },
+  "Sensor Data": {
+    "ch583": 35251,
+    "ch670": 21611,
+    "ch510": 29919,
+    "ch410": 3481,
+    "ch620": 37854,
+    "ch470": 22178,
+    "ch550": 37170,
+    "ch440": 26722
+  },
+  "Experiment ID": "6354abde"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E5"
+  },
+  "Sensor Data": {
+    "ch583": 59390,
+    "ch670": 33950,
+    "ch510": 50640,
+    "ch410": 5826,
+    "ch620": 61164,
+    "ch470": 34863,
+    "ch550": 60572,
+    "ch440": 46119
+  },
+  "Experiment ID": "f45998ee"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E6"
+  },
+  "Sensor Data": {
+    "ch583": 33235,
+    "ch670": 20781,
+    "ch510": 28288,
+    "ch410": 3272,
+    "ch620": 35934,
+    "ch470": 20759,
+    "ch550": 35110,
+    "ch440": 25100
+  },
+  "Experiment ID": "755c0825"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E7"
+  },
+  "Sensor Data": {
+    "ch583": 58191,
+    "ch670": 33239,
+    "ch510": 49362,
+    "ch410": 5694,
+    "ch620": 59740,
+    "ch470": 34611,
+    "ch550": 59547,
+    "ch440": 45996
+  },
+  "Experiment ID": "a1fef8bc"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E8"
+  },
+  "Sensor Data": {
+    "ch583": 35342,
+    "ch670": 21806,
+    "ch510": 30087,
+    "ch410": 3540,
+    "ch620": 38085,
+    "ch470": 22565,
+    "ch550": 37466,
+    "ch440": 27138
+  },
+  "Experiment ID": "8c08855f"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E9"
+  },
+  "Sensor Data": {
+    "ch583": 65535,
+    "ch670": 38661,
+    "ch510": 57642,
+    "ch410": 6274,
+    "ch620": 65535,
+    "ch470": 39048,
+    "ch550": 65535,
+    "ch440": 53799
+  },
+  "Experiment ID": "939874e2"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E10"
+  },
+  "Sensor Data": {
+    "ch583": 34780,
+    "ch670": 21227,
+    "ch510": 29348,
+    "ch410": 3456,
+    "ch620": 37172,
+    "ch470": 21574,
+    "ch550": 36446,
+    "ch440": 25810
+  },
+  "Experiment ID": "9ad7db6b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E11"
+  },
+  "Sensor Data": {
+    "ch583": 60597,
+    "ch670": 34271,
+    "ch510": 51762,
+    "ch410": 5933,
+    "ch620": 62525,
+    "ch470": 36119,
+    "ch550": 62558,
+    "ch440": 48257
+  },
+  "Experiment ID": "81f6914f"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "E12"
+  },
+  "Sensor Data": {
+    "ch583": 30931,
+    "ch670": 19256,
+    "ch510": 26374,
+    "ch410": 2919,
+    "ch620": 32554,
+    "ch470": 18468,
+    "ch550": 31690,
+    "ch440": 22805
+  },
+  "Experiment ID": "6b9ee1c5"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F1"
+  },
+  "Sensor Data": {
+    "ch583": 65535,
+    "ch670": 40210,
+    "ch510": 59323,
+    "ch410": 6310,
+    "ch620": 65535,
+    "ch470": 39839,
+    "ch550": 65535,
+    "ch440": 53974
+  },
+  "Experiment ID": "f3b4807c"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F2"
+  },
+  "Sensor Data": {
+    "ch583": 34696,
+    "ch670": 21194,
+    "ch510": 29519,
+    "ch410": 3396,
+    "ch620": 37316,
+    "ch470": 21411,
+    "ch550": 36404,
+    "ch440": 26165
+  },
+  "Experiment ID": "8ad1bc0b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F3"
+  },
+  "Sensor Data": {
+    "ch583": 58985,
+    "ch670": 33960,
+    "ch510": 50506,
+    "ch410": 5597,
+    "ch620": 61417,
+    "ch470": 34987,
+    "ch550": 60875,
+    "ch440": 46047
+  },
+  "Experiment ID": "28b3ad0e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F4"
+  },
+  "Sensor Data": {
+    "ch583": 34713,
+    "ch670": 21444,
+    "ch510": 29535,
+    "ch410": 3346,
+    "ch620": 37143,
+    "ch470": 21293,
+    "ch550": 36359,
+    "ch440": 26125
+  },
+  "Experiment ID": "562d49d3"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F5"
+  },
+  "Sensor Data": {
+    "ch583": 53586,
+    "ch670": 30668,
+    "ch510": 45772,
+    "ch410": 5174,
+    "ch620": 55862,
+    "ch470": 31555,
+    "ch550": 55003,
+    "ch440": 41529
+  },
+  "Experiment ID": "ba45554e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F6"
+  },
+  "Sensor Data": {
+    "ch583": 34608,
+    "ch670": 21282,
+    "ch510": 29490,
+    "ch410": 3365,
+    "ch620": 37231,
+    "ch470": 21456,
+    "ch550": 36404,
+    "ch440": 26034
+  },
+  "Experiment ID": "cf1ad467"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F7"
+  },
+  "Sensor Data": {
+    "ch583": 58551,
+    "ch670": 33175,
+    "ch510": 50015,
+    "ch410": 5742,
+    "ch620": 60610,
+    "ch470": 34850,
+    "ch550": 60471,
+    "ch440": 46173
+  },
+  "Experiment ID": "8ad8ae0b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F8"
+  },
+  "Sensor Data": {
+    "ch583": 33868,
+    "ch670": 21135,
+    "ch510": 28800,
+    "ch410": 3327,
+    "ch620": 36967,
+    "ch470": 21021,
+    "ch550": 35921,
+    "ch440": 25844
+  },
+  "Experiment ID": "3a9bc8f4"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F9"
+  },
+  "Sensor Data": {
+    "ch583": 58918,
+    "ch670": 33752,
+    "ch510": 50547,
+    "ch410": 5630,
+    "ch620": 60526,
+    "ch470": 34730,
+    "ch550": 60408,
+    "ch440": 46853
+  },
+  "Experiment ID": "6fa55b4f"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F10"
+  },
+  "Sensor Data": {
+    "ch583": 34919,
+    "ch670": 21423,
+    "ch510": 29491,
+    "ch410": 3450,
+    "ch620": 37172,
+    "ch470": 21863,
+    "ch550": 36760,
+    "ch440": 26000
+  },
+  "Experiment ID": "40c65294"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F11"
+  },
+  "Sensor Data": {
+    "ch583": 58262,
+    "ch670": 33321,
+    "ch510": 49994,
+    "ch410": 5684,
+    "ch620": 60287,
+    "ch470": 34605,
+    "ch550": 60272,
+    "ch440": 46680
+  },
+  "Experiment ID": "4b4d9674"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "F12"
+  },
+  "Sensor Data": {
+    "ch583": 31719,
+    "ch670": 19830,
+    "ch510": 27158,
+    "ch410": 3010,
+    "ch620": 33427,
+    "ch470": 18937,
+    "ch550": 32406,
+    "ch440": 23689
+  },
+  "Experiment ID": "4c504917"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G1"
+  },
+  "Sensor Data": {
+    "ch583": 60183,
+    "ch670": 34578,
+    "ch510": 50934,
+    "ch410": 5659,
+    "ch620": 61719,
+    "ch470": 34997,
+    "ch550": 61319,
+    "ch440": 46621
+  },
+  "Experiment ID": "5128fade"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G2"
+  },
+  "Sensor Data": {
+    "ch583": 34614,
+    "ch670": 21402,
+    "ch510": 29473,
+    "ch410": 3347,
+    "ch620": 37369,
+    "ch470": 21187,
+    "ch550": 36402,
+    "ch440": 25953
+  },
+  "Experiment ID": "08eb51ac"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G3"
+  },
+  "Sensor Data": {
+    "ch583": 59826,
+    "ch670": 34393,
+    "ch510": 51146,
+    "ch410": 5773,
+    "ch620": 62185,
+    "ch470": 35174,
+    "ch550": 61693,
+    "ch440": 46812
+  },
+  "Experiment ID": "6af33278"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G4"
+  },
+  "Sensor Data": {
+    "ch583": 34437,
+    "ch670": 21263,
+    "ch510": 29504,
+    "ch410": 3383,
+    "ch620": 37157,
+    "ch470": 21251,
+    "ch550": 36347,
+    "ch440": 26035
+  },
+  "Experiment ID": "3a9d2d0f"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G5"
+  },
+  "Sensor Data": {
+    "ch583": 52134,
+    "ch670": 30405,
+    "ch510": 44865,
+    "ch410": 5093,
+    "ch620": 54130,
+    "ch470": 31370,
+    "ch550": 53925,
+    "ch440": 41690
+  },
+  "Experiment ID": "e9254555"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G6"
+  },
+  "Sensor Data": {
+    "ch583": 35367,
+    "ch670": 21781,
+    "ch510": 29898,
+    "ch410": 3521,
+    "ch620": 38139,
+    "ch470": 22371,
+    "ch550": 37459,
+    "ch440": 26842
+  },
+  "Experiment ID": "9c27354b"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G7"
+  },
+  "Sensor Data": {
+    "ch583": 59150,
+    "ch670": 34031,
+    "ch510": 49954,
+    "ch410": 5673,
+    "ch620": 60439,
+    "ch470": 34356,
+    "ch550": 59891,
+    "ch440": 44910
+  },
+  "Experiment ID": "3b067d3d"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G8"
+  },
+  "Sensor Data": {
+    "ch583": 34607,
+    "ch670": 21311,
+    "ch510": 29664,
+    "ch410": 3396,
+    "ch620": 37061,
+    "ch470": 21513,
+    "ch550": 36254,
+    "ch440": 26383
+  },
+  "Experiment ID": "604683a3"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G9"
+  },
+  "Sensor Data": {
+    "ch583": 54027,
+    "ch670": 30913,
+    "ch510": 46327,
+    "ch410": 5374,
+    "ch620": 55800,
+    "ch470": 32585,
+    "ch550": 55807,
+    "ch440": 43482
+  },
+  "Experiment ID": "2f1b7a27"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G10"
+  },
+  "Sensor Data": {
+    "ch583": 34553,
+    "ch670": 21493,
+    "ch510": 29218,
+    "ch410": 3394,
+    "ch620": 37086,
+    "ch470": 21513,
+    "ch550": 36262,
+    "ch440": 25777
+  },
+  "Experiment ID": "c9974249"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G11"
+  },
+  "Sensor Data": {
+    "ch583": 53004,
+    "ch670": 30601,
+    "ch510": 44989,
+    "ch410": 5130,
+    "ch620": 55039,
+    "ch470": 31472,
+    "ch550": 54592,
+    "ch440": 41152
+  },
+  "Experiment ID": "558b5b42"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "G12"
+  },
+  "Sensor Data": {
+    "ch583": 31226,
+    "ch670": 19550,
+    "ch510": 26695,
+    "ch410": 2911,
+    "ch620": 32780,
+    "ch470": 18535,
+    "ch550": 31839,
+    "ch440": 23217
+  },
+  "Experiment ID": "ca615d09"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H1"
+  },
+  "Sensor Data": {
+    "ch583": 53648,
+    "ch670": 30690,
+    "ch510": 45435,
+    "ch410": 5085,
+    "ch620": 55176,
+    "ch470": 31377,
+    "ch550": 54662,
+    "ch440": 41691
+  },
+  "Experiment ID": "0c3f2a25"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H2"
+  },
+  "Sensor Data": {
+    "ch583": 35370,
+    "ch670": 22068,
+    "ch510": 30542,
+    "ch410": 3363,
+    "ch620": 37750,
+    "ch470": 21450,
+    "ch550": 36830,
+    "ch440": 26927
+  },
+  "Experiment ID": "0aea8aa2"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H3"
+  },
+  "Sensor Data": {
+    "ch583": 42315,
+    "ch670": 25158,
+    "ch510": 36203,
+    "ch410": 4021,
+    "ch620": 44065,
+    "ch470": 25345,
+    "ch550": 43447,
+    "ch440": 32981
+  },
+  "Experiment ID": "1a51d7ce"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H4"
+  },
+  "Sensor Data": {
+    "ch583": 36326,
+    "ch670": 22230,
+    "ch510": 30723,
+    "ch410": 3566,
+    "ch620": 38721,
+    "ch470": 22712,
+    "ch550": 38103,
+    "ch440": 27375
+  },
+  "Experiment ID": "7631bbbb"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H5"
+  },
+  "Sensor Data": {
+    "ch583": 58881,
+    "ch670": 33653,
+    "ch510": 50403,
+    "ch410": 5735,
+    "ch620": 61265,
+    "ch470": 34857,
+    "ch550": 60828,
+    "ch440": 45985
+  },
+  "Experiment ID": "a6a525c7"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H6"
+  },
+  "Sensor Data": {
+    "ch583": 33244,
+    "ch670": 20686,
+    "ch510": 28478,
+    "ch410": 3303,
+    "ch620": 35905,
+    "ch470": 20991,
+    "ch550": 35249,
+    "ch440": 25150
+  },
+  "Experiment ID": "33f2d698"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H7"
+  },
+  "Sensor Data": {
+    "ch583": 63537,
+    "ch670": 35730,
+    "ch510": 54243,
+    "ch410": 6241,
+    "ch620": 65292,
+    "ch470": 37467,
+    "ch550": 65292,
+    "ch440": 50358
+  },
+  "Experiment ID": "629b3fe7"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H8"
+  },
+  "Sensor Data": {
+    "ch583": 33902,
+    "ch670": 20843,
+    "ch510": 28992,
+    "ch410": 3331,
+    "ch620": 36355,
+    "ch470": 21070,
+    "ch550": 35651,
+    "ch440": 25833
+  },
+  "Experiment ID": "caf4d2ae"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H9"
+  },
+  "Sensor Data": {
+    "ch583": 61735,
+    "ch670": 34902,
+    "ch510": 52557,
+    "ch410": 6057,
+    "ch620": 62995,
+    "ch470": 36515,
+    "ch550": 63287,
+    "ch440": 49058
+  },
+  "Experiment ID": "be5d455e"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H10"
+  },
+  "Sensor Data": {
+    "ch583": 34192,
+    "ch670": 21349,
+    "ch510": 28985,
+    "ch410": 3340,
+    "ch620": 36480,
+    "ch470": 21249,
+    "ch550": 35673,
+    "ch440": 25460
+  },
+  "Experiment ID": "bc14411d"
+}
+{
+  "Status": "Complete",
+  "Message": "Experiment completed successfully!",
+  "Student ID": "test2",
+  "Command": {
+    "R": 0,
+    "Y": 0,
+    "B": 0,
+    "well": "H11"
+  },
+  "Sensor Data": {
+    "ch583": 46166,
+    "ch670": 26982,
+    "ch510": 39124,
+    "ch410": 4406,
+    "ch620": 47707,
+    "ch470": 26978,
+    "ch550": 47049,
+    "ch440": 34566
+  },
+  "Experiment ID": "3ec20310"
+}
+
+
+An exception has occurred, use %tb to see the full traceback.
+
+
+
+
+SystemExit: Queue terminated by administrator. REASON: Plate full
+
+
+/usr/local/lib/python3.12/dist-packages/IPython/core/interactiveshell.py:3561: UserWarning: To exit: use 'exit', 'quit', or Ctrl-D.
+  warn("To exit: use 'exit', 'quit', or Ctrl-D.", stacklevel=1)
